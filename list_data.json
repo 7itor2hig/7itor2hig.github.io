@@ -1,18 +1,14 @@
-[
-  {
-   "Company" : "United States Army",
-   "Role" : "Computer Detection Systems Repairer",
-   "City" : "Anchorage",
-   "State" : "Alaska",
-   "Start Date" : "October 5th, 2015",
-   "End Date" : "October 5th 2019"
-   },
-   {
-   "Company" : "Nevada National Guard",
-   "Role" : "Satellite Communications Operator/Maintainer",
-   "City" : "Stead",
-   "State" : "Nevada",
-   "Start Date" : "October 5th, 2019",
-   "End Date" : "January 1st, 2021"
-   }
-]
+{
+  "roles": [
+    {
+      "role": "Computer/Detection Systems Technician",
+      "organization": "U.S. Army",
+      "years": "2015–2019"
+    },
+    {
+      "role": "Satellite Communications Technician",
+      "organization": "Nevada National Guard",
+      "years": "2019–2021"
+    }
+  ]
+}

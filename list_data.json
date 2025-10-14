@@ -1,13 +1,48 @@
 {
-  "roles": [
+  "Roles": [
     {
-      "role": "Computer/Detection Systems Technician",
-      "organization": "U.S. Army",
-      "years": "2015–2019"
+    "Role" : "Robot Operator",
+    "Organization" : "Physical Intelligence",
+    "Years" : "2025-Present"
     },
     {
-      "role": "Satellite Communications Technician",
-      "organization": "Nevada National Guard",
-      "years": "2019–2021"
+    "Role" : "PhD Candidate",
+    "Organization" : "UC Berkeley School of Information",
+    "Years" : "2023-2025"
+    },
+    {
+    "Role" : "Strategic Finance Intern",
+    "Organization" : "Smartsheet Inc.",
+    "Years" : "2023"
+    },
+    {
+     "Role" : "Undergraduate Research Assistant (Neuroscience)",
+     "Organization" : "Pieces of Mind Lab",
+     "Years" : "2022-2023"      
+    },
+    {
+      "Role" : "Autonomous Delivery Operations Specialist",
+      "Organization" : "Starship Technologies",
+      "Years" : "2021-2022"
+    },
+    {
+      "Role": "Satellite Communications Technician",
+      "Organization": "Nevada National Guard",
+      "Years": "2019–2021"
+    },
+    {
+      "Role" : "Electronic Security Systems Technician",
+      "Organization" : "United States Department of the Army",
+      "Years" : "2020"
+    },
+    {
+      "Role" : "Audio/Video Technician",
+      "Organization" : "University of Nevada, Reno",
+      "Years" : "2019-2020"
+    },
+    {
+      "Role": "Computer/Detection Systems Technician",
+      "Organization": "U.S. Army",
+      "Years": "2015–2019"
     }]
 }
